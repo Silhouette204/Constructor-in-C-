@@ -1,0 +1,14 @@
+D:\C# Class\constructorsToThis\bin\Debug\net7.0\constructorsToThis.exe
+D:\C# Class\constructorsToThis\bin\Debug\net7.0\constructorsToThis.deps.json
+D:\C# Class\constructorsToThis\bin\Debug\net7.0\constructorsToThis.runtimeconfig.json
+D:\C# Class\constructorsToThis\bin\Debug\net7.0\constructorsToThis.dll
+D:\C# Class\constructorsToThis\bin\Debug\net7.0\constructorsToThis.pdb
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\constructorsToThis.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\constructorsToThis.AssemblyInfoInputs.cache
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\constructorsToThis.AssemblyInfo.cs
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\constructorsToThis.csproj.CoreCompileInputs.cache
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\constructorsToThis.dll
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\refint\constructorsToThis.dll
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\constructorsToThis.pdb
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\constructorsToThis.genruntimeconfig.cache
+D:\C# Class\constructorsToThis\obj\Debug\net7.0\ref\constructorsToThis.dll
